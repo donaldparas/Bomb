@@ -1,0 +1,13 @@
+D:\AppTest\Bomb\Bomb\Bomb\Bomb\bin\Debug\netstandard2.0\Bomb.deps.json
+D:\AppTest\Bomb\Bomb\Bomb\Bomb\bin\Debug\netstandard2.0\Bomb.dll
+D:\AppTest\Bomb\Bomb\Bomb\Bomb\bin\Debug\netstandard2.0\ref\Bomb.dll
+D:\AppTest\Bomb\Bomb\Bomb\Bomb\bin\Debug\netstandard2.0\Bomb.pdb
+D:\AppTest\Bomb\Bomb\Bomb\Bomb\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\AppTest\Bomb\Bomb\Bomb\Bomb\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\AppTest\Bomb\Bomb\Bomb\Bomb\obj\Debug\netstandard2.0\Bomb.csproj.CoreCompileInputs.cache
+D:\AppTest\Bomb\Bomb\Bomb\Bomb\obj\Debug\netstandard2.0\Bomb.AssemblyInfoInputs.cache
+D:\AppTest\Bomb\Bomb\Bomb\Bomb\obj\Debug\netstandard2.0\Bomb.AssemblyInfo.cs
+D:\AppTest\Bomb\Bomb\Bomb\Bomb\obj\Debug\netstandard2.0\XamlC.stamp
+D:\AppTest\Bomb\Bomb\Bomb\Bomb\obj\Debug\netstandard2.0\Bomb.dll
+D:\AppTest\Bomb\Bomb\Bomb\Bomb\obj\Debug\netstandard2.0\ref\Bomb.dll
+D:\AppTest\Bomb\Bomb\Bomb\Bomb\obj\Debug\netstandard2.0\Bomb.pdb
