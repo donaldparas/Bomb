@@ -1,0 +1,6 @@
+﻿1>------ Build started: Project: Bomb, Configuration: Debug Any CPU ------
+1>Bomb -> D:\AppTest\Bomb\Bomb\Bomb\Bomb\bin\Debug\netstandard2.0\Bomb.dll
+2>------ Build started: Project: Bomb.Android, Configuration: Debug Any CPU ------
+2>  Bomb.Android -> D:\AppTest\Bomb\Bomb\Bomb\Bomb.Android\bin\Debug\Bomb.Android.dll
+2>  No way to resolve conflict between "mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" and "mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e". Choosing "mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" arbitrarily.
+========== Build: 2 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

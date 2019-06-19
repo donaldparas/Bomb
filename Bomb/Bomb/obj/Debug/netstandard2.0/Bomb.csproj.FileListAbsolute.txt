@@ -11,3 +11,4 @@ D:\AppTest\Bomb\Bomb\Bomb\Bomb\obj\Debug\netstandard2.0\XamlC.stamp
 D:\AppTest\Bomb\Bomb\Bomb\Bomb\obj\Debug\netstandard2.0\Bomb.dll
 D:\AppTest\Bomb\Bomb\Bomb\Bomb\obj\Debug\netstandard2.0\ref\Bomb.dll
 D:\AppTest\Bomb\Bomb\Bomb\Bomb\obj\Debug\netstandard2.0\Bomb.pdb
+D:\AppTest\Bomb\Bomb\Bomb\Bomb\obj\Debug\netstandard2.0\Bomb.csprojAssemblyReference.cache

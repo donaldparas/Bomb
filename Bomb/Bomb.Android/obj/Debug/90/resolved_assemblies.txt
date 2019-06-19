@@ -8,7 +8,6 @@ D:\AppTest\Bomb\Bomb\Bomb\Bomb.Android\obj\Debug\90\android\assets\System.Core.d
 D:\AppTest\Bomb\Bomb\Bomb\Bomb.Android\obj\Debug\90\android\assets\System.dll
 D:\AppTest\Bomb\Bomb\Bomb\Bomb.Android\obj\Debug\90\android\assets\System.Numerics.dll
 D:\AppTest\Bomb\Bomb\Bomb\Bomb.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
-D:\AppTest\Bomb\Bomb\Bomb\Bomb.Android\obj\Debug\90\android\assets\System.Runtime.dll
 D:\AppTest\Bomb\Bomb\Bomb\Bomb.Android\obj\Debug\90\android\assets\System.Xml.dll
 D:\AppTest\Bomb\Bomb\Bomb\Bomb.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
 D:\AppTest\Bomb\Bomb\Bomb\Bomb.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
